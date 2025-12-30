@@ -106,20 +106,7 @@ h2 {
   display: inline-block;
 }
 
-.genre-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 30px;
-}
 
-.genre-tags span {
-  border: 1px solid #38bdf8;
-  color: #38bdf8;
-  padding: 6px 12px;
-  border-radius: 20px;
-  font-size: 0.85rem;
-}
 
 
 
